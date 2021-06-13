@@ -2,7 +2,7 @@
 - 👀 I’m interested in swiftUI/Apple 
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on SwiftUI Projekt pleas Contact me :-)
-- 📫 How to reach me s.kloesel or Twitter: @SebastianKl10
+- 📫 How to reach me s.kloesel@gmx.de or Twitter: @SebastianKl10
 
 <!---
 SebastianDev23/SebastianDev23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
